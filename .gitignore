@@ -1,5 +1,5 @@
 /output/**
-！/output/**/
+!/output/**/
 !/output/**/.gitkeep
 /audio/**
 !/audio/**/
