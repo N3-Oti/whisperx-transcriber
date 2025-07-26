@@ -1,2 +1,6 @@
-/output
-/audio
+/output/**
+！/output/**/
+!/output/**/.gitkeep
+/audio/**
+!/audio/**/
+!/audio/**/.gitkeep
